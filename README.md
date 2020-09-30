@@ -3,6 +3,8 @@ A comparison of Vultr or Hetzner using Geekbench 5.
 So far Hetzner seems to be cheaper per Euro.
 
 # Future work
+ - Make nice visuals
+ - Add more cloud providers
 ## Other "discount" cloud providers:
  - [Scaleway](https://www.scaleway.com/en/pricing/)
  - [UpCloud](https://upcloud.com/pricing/)
